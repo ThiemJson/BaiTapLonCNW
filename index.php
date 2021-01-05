@@ -1,13 +1,11 @@
 <!DOCTYPE html>
 <html lang="en"><head><meta http-equiv="content-type" content="text/html; charset=UTF-8">
-
-
     <meta charset="UTF-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Phạm Huy Hoàng - Full Stack Developer Resume</title>
+    <title>Nguyễn Cao Thiêm - Mobile Developer Resume</title>
     <!-- Default style sheets -->
-    <link rel="shortcut icon" type="image/x-icon" href="https://cv.toidicodedao.com/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico">
     <link href="index_files/css.css" rel="stylesheet">
     <link rel="stylesheet" href="index_files/dist.css">
     <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -22,7 +20,7 @@
     <header id="site-header">
         <nav id="site-navigation" class="main-navigation side-static" role="navigation">
             <div class="navigation-header">
-                <a href="https://cv.toidicodedao.com/index.html" class="logo"><img src="index_files/site-logo.png" alt="Signature" class="site-logo"></a>
+                <a href="#" class="logo"><img src="index_files/site-logo.png" alt="Signature" class="site-logo"></a>
                 <button class="menu-switch">
                     <i class="fa fa-bars"></i>
                 </button>
@@ -43,10 +41,10 @@
                 <div class="header-content">
                     <div class="container">
                         <div class="site-title">
-                            <h1 class="site-name">I’m Pham Huy Hoang</h1>
+                            <h1 class="site-name">I’m NGUYEN CAO THIEM</h1>
                         </div>
                         <!-- /.site-title -->
-                        <h3 class="site-slogan">A Full Stack Developer</h3>
+                        <h3 class="site-slogan">A Mobile Developer</h3>
                         <!-- /.site-slogan-->
                         <div class="social-link">
                             <ul class="social-profiles">
@@ -76,7 +74,7 @@
             <div class="container">
                 <div class="col-md-3" data-scroll-reveal="enter from the left after .5s">
                     <div class="profile-photo section-box">
-                        <img src="index_files/profile-img.jpg" alt="Huy Hoang" class="profile-image img-responsive">
+                        <img src="index_files/profile-img.JPG" alt="Cao Thiem" class="profile-image img-responsive">
                     </div>
                     <!-- /.profile-photo -->
                 </div>
