@@ -1,5 +1,8 @@
 <!DOCTYPE html>
-<html lang="en"><head><meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<html lang="en">
+
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta charset="UTF-8">
     <!--[if IE]><meta http-equiv='X-UA-Compatible' content='IE=edge,chrome=1'><![endif]-->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,6 +17,7 @@
       <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
       <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
       <![endif]-->
+    <script src="https://use.fontawesome.com/303a8145d6.js"></script>
 </head>
 
 <body class="homepage ver-one" data-spy="scroll" data-target=".main-navigation">
@@ -48,11 +52,8 @@
                         <!-- /.site-slogan-->
                         <div class="social-link">
                             <ul class="social-profiles">
-                                <li class="item"><a href="https://vn.linkedin.com/in/huyhoangpham92" class="fa-linkedin"><span>LinkedIn</span></a></li>
-                                <li class="item"><a href="http://stackoverflow.com/users/4201323/huy-hoang-pham" class="fa-stack-overflow"><span>Stack Overflow</span></a></li>
-                                <li class="item"><a href="https://toidicodedao.com/" class="fa-wordpress"><span>Blog</span></a></li>
-                                <li class="item"><a href="https://github.com/conanak99" class="fa-github"><span>Github</span></a></li>
-                                <li class="item"><a href="https://www.facebook.com/huyhoang.pham.106" class="fa-facebook"><span>Facebook</span></a></li>
+                                <li class="item"><a href="https://github.com/ThiemJson" class="fa-github"><span>Github</span></a></li>
+                                <li class="item"><a href="https://www.facebook.com/thiemtinhte" class="fa-facebook"><span>Facebook</span></a></li>
                             </ul>
                         </div>
                         <!-- /.social-link -->
@@ -84,16 +85,16 @@
                         <div class="about-content">
                             <p>
                                 I'm Pham Huy Hoang, a full stack developer with <b>3 years of experience in .NET technologies</b> and <b>1 year of experience in MEAN stack</b>, with good knowledge of <i>Database Design, Design Pattern, Object-Oriented Analysis and Design</i>.</p>
-                            <p>Learning new languages and technologies 
-is what I am passionate about (I self-taught Django with 3 weeks). I am 
-considered a team-player because I like to help other and tend to work 
-well within groups. I can also do some mentoring tasks and do code 
-reviewing for other team members.</p>
-                            <p> I like helping other and work well with 
-group. I can also do some mentoring tasks and code reviewing for other 
-members (I also held a presentation about <a href="https://www.slideshare.net/conanak99/ioc-and-mapper-in-c" target="_blank">IoC and DI</a> for my team).</p>
+                            <p>Learning new languages and technologies
+                                is what I am passionate about (I self-taught Django with 3 weeks). I am
+                                considered a team-player because I like to help other and tend to work
+                                well within groups. I can also do some mentoring tasks and do code
+                                reviewing for other team members.</p>
+                            <p> I like helping other and work well with
+                                group. I can also do some mentoring tasks and code reviewing for other
+                                members (I also held a presentation about <a href="https://www.slideshare.net/conanak99/ioc-and-mapper-in-c" target="_blank">IoC and DI</a> for my team).</p>
                             <p>I am also the owner of an IT blog called: <a href="https://toidicodedao.wordpress.com/">toidicodedao.com</a>.
-                              My <a href="http://stackoverflow.com/users/4201323/huy-hoang-pham">stackoverflow profile</a> is <b>among the top 11% with more than 3k reps</b>. My favorite books are: <i>Clean Code, Head First Design Pattern, C# in Depth, Working with Legacy Code</i>. </p>
+                                My <a href="http://stackoverflow.com/users/4201323/huy-hoang-pham">stackoverflow profile</a> is <b>among the top 11% with more than 3k reps</b>. My favorite books are: <i>Clean Code, Head First Design Pattern, C# in Depth, Working with Legacy Code</i>. </p>
                         </div>
                         <!-- /.about-content -->
                         <a href="https://cv.toidicodedao.com/assets/[Full%20Stack%20Developer]%20Hoang%20Pham.pdf" class="btn fa-download download-btn">My CV</a>
@@ -105,10 +106,9 @@ members (I also held a presentation about <a href="https://www.slideshare.net/co
                         <h2 class="title">Contact Info</h2>
                         <address>
                             <ul class="address-line">
-                                <li class="fa-map-marker">Lancaster, Lancashire, UK</li>
-                                <li class="fa-phone">+44 7922.819.535</li>
-                                <li class="fa-envelope"><a href="mailto:huyhoang8a5@gmail.com">huyhoang8a5@gmail.com</a></li>
-                                <li class="fa-globe"> <a href="https://cv.toidicodedao.com/cv.toidicodedao.com">cv.toidicodedao.com</a></li>
+                                <li class="fa-map-marker">HaDong, HaNoi, VN</li>
+                                <li class="fa-phone">+84 338.465.469</li>
+                                <li class="fa-envelope"><a href="mailto:nguyencaothiem@gmail.com">nguyencaothiem292@gmail.com</a></li>
                             </ul>
                         </address>
                         <!-- /.contact-info -->
@@ -156,9 +156,9 @@ members (I also held a presentation about <a href="https://www.slideshare.net/co
                         </ul>
                         <h2 class="box-title">Version Control</h2>
                         <ul>
-                          <li>Git (Git Shell &amp; Github)</li>
-                          <li>Team Foundation Server</li>
-                          <li>SVN (TortoiseSVN &amp; VisualSVN)</li>
+                            <li>Git (Git Shell &amp; Github)</li>
+                            <li>Team Foundation Server</li>
+                            <li>SVN (TortoiseSVN &amp; VisualSVN)</li>
                         </ul>
                         <h2 class="box-title">IDE</h2>
                         <ul>
@@ -186,7 +186,8 @@ members (I also held a presentation about <a href="https://www.slideshare.net/co
                 </div>
                 <!-- /.skills-container -->
             </div>
-    </div></section>
+        </div>
+    </section>
     <!-- /#skills -->
     <section id="experiences" class="default-section" data-scroll-reveal="enter from the bottom over .5s">
         <div class="section-heading">
@@ -196,36 +197,36 @@ members (I also held a presentation about <a href="https://www.slideshare.net/co
         <div class="container">
             <div class="experiences-container">
                 <div class="experience-items">
-                  <div class="experience-item" data-scroll-reveal="enter from the bottom over .5s">
-                      <div class="name-designation" data-scroll-reveal="enter from the left after .5s">
-                          <h3 class="designation">Full Stack Developer</h3>
-                          <p class="name-of-org">Lancaster ISS</p>
-                      </div>
-                      <!-- /.name-designation -->
-                      <div class="stay-time light-violet">
-                          <p>
-                              02/2016
-                              <br> -<br>
-                              Present
-                          </p>
-                      </div>
-                      <!-- /.stay-time -->
-                      <div class="comments" data-scroll-reveal="enter from the right after .5s">
-                        <ul>
-                          <li><span class="bold">Project</span>:iLancaster</li>
-                          <li><span class="bold">Project Description</span>:
- A free mobile app delivering Lancaster University services, resources, 
-and information - at your fingertips - whenever you want them, from 
-wherever you are!</li>
-                          <li><span class="bold">Team Size</span>: 9</li>
-                          <li><span class="bold">Responsiblities</span>: Meeting with customers and teammates to get clear requirement. Develop the frameworks and modules of the system.</li>
-                          <li><span class="bold">Accomplishments</span>: Learned new Microsoft technologies and frameworks. Improved teamwork and communication skills.</li>
-                          <li><span class="bold">Technologies</span>: Front-end: ReactJS + Redux, Webpack. Back-end ASP.NET MVC5, Entity Framework.</li>
-                        </ul>
-                      </div>
-                      <!-- /.comments -->
-                  </div>
-                  <!-- /.experience-item -->
+                    <div class="experience-item" data-scroll-reveal="enter from the bottom over .5s">
+                        <div class="name-designation" data-scroll-reveal="enter from the left after .5s">
+                            <h3 class="designation">Full Stack Developer</h3>
+                            <p class="name-of-org">Lancaster ISS</p>
+                        </div>
+                        <!-- /.name-designation -->
+                        <div class="stay-time light-violet">
+                            <p>
+                                02/2016
+                                <br> -<br>
+                                Present
+                            </p>
+                        </div>
+                        <!-- /.stay-time -->
+                        <div class="comments" data-scroll-reveal="enter from the right after .5s">
+                            <ul>
+                                <li><span class="bold">Project</span>:iLancaster</li>
+                                <li><span class="bold">Project Description</span>:
+                                    A free mobile app delivering Lancaster University services, resources,
+                                    and information - at your fingertips - whenever you want them, from
+                                    wherever you are!</li>
+                                <li><span class="bold">Team Size</span>: 9</li>
+                                <li><span class="bold">Responsiblities</span>: Meeting with customers and teammates to get clear requirement. Develop the frameworks and modules of the system.</li>
+                                <li><span class="bold">Accomplishments</span>: Learned new Microsoft technologies and frameworks. Improved teamwork and communication skills.</li>
+                                <li><span class="bold">Technologies</span>: Front-end: ReactJS + Redux, Webpack. Back-end ASP.NET MVC5, Entity Framework.</li>
+                            </ul>
+                        </div>
+                        <!-- /.comments -->
+                    </div>
+                    <!-- /.experience-item -->
                     <div class="experience-item" data-scroll-reveal="enter from the bottom over .5s">
                         <div class="name-designation" data-scroll-reveal="enter from the left after .5s">
                             <h3 class="designation">Developer</h3>
@@ -241,14 +242,14 @@ wherever you are!</li>
                         </div>
                         <!-- /.stay-time -->
                         <div class="comments" data-scroll-reveal="enter from the right after .5s">
-                          <ul>
-                            <li><span class="bold">Project</span>:Foundation</li>
-                            <li><span class="bold">Project Description</span>: A system which serves as a gateway, checks the authentication and authorization of the users from other applications.</li>
-                            <li><span class="bold">Team Size</span>: 12</li>
-                            <li><span class="bold">Responsiblities</span>: Meeting with customers and teammates to get clear requirement. Develop the frameworks and modules of the system.</li>
-                            <li><span class="bold">Accomplishments</span>: Learned new Microsoft technologies and frameworks. Improved teamwork and communication skills.</li>
-                            <li><span class="bold">Technologies</span>: ASP.NET MVC5, Entity Framework, AngularJS, Claim-based Identity, Thinktecture Identity Server.</li>
-                          </ul>
+                            <ul>
+                                <li><span class="bold">Project</span>:Foundation</li>
+                                <li><span class="bold">Project Description</span>: A system which serves as a gateway, checks the authentication and authorization of the users from other applications.</li>
+                                <li><span class="bold">Team Size</span>: 12</li>
+                                <li><span class="bold">Responsiblities</span>: Meeting with customers and teammates to get clear requirement. Develop the frameworks and modules of the system.</li>
+                                <li><span class="bold">Accomplishments</span>: Learned new Microsoft technologies and frameworks. Improved teamwork and communication skills.</li>
+                                <li><span class="bold">Technologies</span>: ASP.NET MVC5, Entity Framework, AngularJS, Claim-based Identity, Thinktecture Identity Server.</li>
+                            </ul>
                         </div>
                         <!-- /.comments -->
                     </div>
@@ -272,17 +273,17 @@ wherever you are!</li>
                             <ul>
                                 <li><span class="bold">Project</span>: Nebula - Simulator</li>
                                 <li><span class="bold">Project Description</span>:
- A system simulates the process of constructing an oil well. The purpose
- of the system is to help training junior petroleum engineers.</li>
+                                    A system simulates the process of constructing an oil well. The purpose
+                                    of the system is to help training junior petroleum engineers.</li>
                                 <li><span class="bold">Team Size</span>: 12</li>
                                 <li><span class="bold">Responsiblities</span>:
- Communicate with customer to get clear requirement. Develop and fix the
- application’s defect base on requirement. Prepare document and 
-technical guide for developers joining in the middle of the project.</li>
+                                    Communicate with customer to get clear requirement. Develop and fix the
+                                    application’s defect base on requirement. Prepare document and
+                                    technical guide for developers joining in the middle of the project.</li>
                                 <li><span class="bold">Accomplishments</span>:
- Learned to develop software follow Scrum development process. Learned 
-WPF, Caliburn.Micro Model-View-ViewModel framework. Got experience in 
-working/communicate with American customers.</li>
+                                    Learned to develop software follow Scrum development process. Learned
+                                    WPF, Caliburn.Micro Model-View-ViewModel framework. Got experience in
+                                    working/communicate with American customers.</li>
                                 <li><span class="bold">Technologies</span>: XAML, WPF, Caliburn Micro, MEF.</li>
                             </ul>
                         </div>
@@ -346,31 +347,33 @@ working/communicate with American customers.</li>
             <div class="education-container">
                 <div class="education-items">
                     <div class="col-md-12" data-scroll-reveal="enter from the top after .5s">
-                      <div class="education-item">
-                          <div class="edu-time light-green">
-                              <p>2015
-                                  <br> -
-                                  <br> 2017</p>
-                          </div>
-                          <!-- /.edu-time -->
-                          <div class="edu-title">
-                              <p class="edu-session">MSc of International Innovation (Computer Science pathway)</p>
-                              <p class="edu-inst">Lancaster University, United Kingdom</p>
-                          </div>
-                          <!-- /.edu-title -->
-                          <div class="edu-comments">
-                              <ul>
-                                  <li>Degree grade: Distinction</li>
-                              </ul>
-                          </div>
-                          <!-- /.edu-comments -->
-                      </div>
-                      <!-- /.education-item -->
+                        <div class="education-item">
+                            <div class="edu-time light-green">
+                                <p>2015
+                                    <br> -
+                                    <br> 2017
+                                </p>
+                            </div>
+                            <!-- /.edu-time -->
+                            <div class="edu-title">
+                                <p class="edu-session">MSc of International Innovation (Computer Science pathway)</p>
+                                <p class="edu-inst">Lancaster University, United Kingdom</p>
+                            </div>
+                            <!-- /.edu-title -->
+                            <div class="edu-comments">
+                                <ul>
+                                    <li>Degree grade: Distinction</li>
+                                </ul>
+                            </div>
+                            <!-- /.edu-comments -->
+                        </div>
+                        <!-- /.education-item -->
                         <div class="education-item">
                             <div class="edu-time light-blue">
                                 <p>2011
                                     <br> -
-                                    <br> 2014</p>
+                                    <br> 2014
+                                </p>
                             </div>
                             <!-- /.edu-time -->
                             <div class="edu-title">
@@ -402,4 +405,6 @@ working/communicate with American customers.</li>
 
 
 
-</body></html>
+</body>
+
+</html>
