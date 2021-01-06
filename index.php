@@ -54,6 +54,7 @@
                             <ul class="social-profiles">
                                 <li class="item"><a href="https://github.com/ThiemJson" class="fa-github"><span>Github</span></a></li>
                                 <li class="item"><a href="https://www.facebook.com/thiemtinhte" class="fa-facebook"><span>Facebook</span></a></li>
+                                <li class="item"><a href="play.google.com/store/apps/dev?id=7615257913038978290" class="fa-play"><span>Google Play</span></a></li>
                             </ul>
                         </div>
                         <!-- /.social-link -->
@@ -303,7 +304,7 @@
                         </div>
                         <!-- /.stay-time -->
                         <div class="comments" data-scroll-reveal="enter from the right after .5s">
-                            <p>In my free time, I work on some pet projects: <a href="https://github.com/conanak99/">https://github.com/conanak99/</a></p>
+                            <p>In my free time, I work on some pet projects: <a href="https://github.com/ThiemJson/">https://github.com/ThiemJson  /</a></p>
                             <ul>
                                 <li><a href="http://jav-idol.toidicodedao.com/" class="bold">JAV Idol Recognition</a>: An app that can recognize famous Japanese pop idols <b>(AngularJS. Back-end: C# + Azure Function + Microsoft Recognitive API)</b>
                                     - <a href="https://github.com/conanak99/idol-face/tree/gh-pages" target="_blank">Github</a>
